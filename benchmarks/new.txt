@@ -1,0 +1,7 @@
+goos: windows
+goarch: amd64
+pkg: github.com/ilam072/profiler/internal/rest
+cpu: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+BenchmarkSum-8   	  429838	      3038 ns/op	    7013 B/op	      27 allocs/op
+PASS
+ok  	github.com/ilam072/profiler/internal/rest	1.904s
