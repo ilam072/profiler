@@ -1,0 +1,7 @@
+goos: windows
+goarch: amd64
+pkg: profiler/internal/rest
+cpu: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+BenchmarkSum-8   	  356827	      3437 ns/op	    7109 B/op	      27 allocs/op
+PASS
+ok  	profiler/internal/rest	1.837s
