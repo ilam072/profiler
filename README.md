@@ -1,4 +1,4 @@
-# Sum API Benchmark Project
+# Profiler
 
 ## Описание проекта
 
